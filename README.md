@@ -79,9 +79,10 @@ npx prisma studio
 Open Prisma Studio and update the role of the desired user to admin.
 
 
+#####
 
+persian md
 
-#persian md
 در این پروژه با نسخه 14.2 nextjs + tailwind + prisma + postgres (docker) یک سیستم وبلاگ بسیار ساده راه اندازی شده . که دارای یک داشبورد ساده دو نوع یوزر عادی و ادمین میباشد. ما در این پروژه از پکیج auth next استفاده کردیم. 
 برای شروع یک کلون از نرم این ریپازیتوری رو بصورت زیر دانلود کنید . 
 ```sh
